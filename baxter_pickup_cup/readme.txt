@@ -1,3 +1,5 @@
+Make sure you have already set up kinect dirver [iai_kinect2](https://github.com/code-iai/iai_kinect2) and Yale OpenHand ros controller [dynamixel_controllers](http://wiki.ros.org/dynamixel_controllers) in your ros environment.
+
 Each lines of command should inside baxter shell and soure
 
 First set motor setting and make sure you change the mode of USB port.
